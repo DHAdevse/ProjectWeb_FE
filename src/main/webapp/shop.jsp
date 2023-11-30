@@ -70,7 +70,7 @@
             <!-- Amado Nav -->
             <nav class="amado-nav">
                 <ul>
-                    <li><a href="index.jsp">Home</a></li>
+                    <li><a href="login.jsp">LOGIN</a></li>
                     <li class="active"><a href="shop.jsp">Shop</a></li>
                     <li><a href="product-details.jsp">Product</a></li>
                     <li><a href="cart.jsp">Cart</a></li>
